@@ -1,4 +1,5 @@
 # Scientific Calculator
+#INTERN ID:CITS8511 #FULL NAME:Paidigantam V S N Sree Ananya #NO OF WEEKS:8 Weeks #PROJECT NAME:student management system #PROJECT SCOPE:Java
 
 This project is a Scientific Calculator implemented using JavaFX for the GUI. It supports basic arithmetic operations as well as scientific functions like square root, power, sine, cosine, tangent, and logarithm.
 
